@@ -1,6 +1,6 @@
 # Flight Data
 
-The flight data that was recorded during the launch. Note that the logging electronics were powered on before being placed on the launchpad. This was safe, as these electronics were electrically isolated from the pyrotechnic chargers.
+This is the flight data that was recorded. Note that the logging electronics were powered on before being placed on the launchpad. This was safe since these electronics were electrically isolated from the pyrotechnic chargers.
 
 
 ## Significant Events
