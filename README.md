@@ -13,7 +13,8 @@ Saves telemetry to on-board microSD card as `.csv`.
     - Gyroscope, Magnetometer, Temperature Sensor.
  - Barometer: LPS22
     - Ambient temperature sensor
-Communication with all modules over I2C.
+
+Communication with all modules is done over I2C.
 
 When powering on, make sure that the MPU (Low G Accelerometer, Blue Board) has `+z` facing up to ensure good calibration.
 
