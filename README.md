@@ -1,5 +1,5 @@
 # Rocketry Software
-Software used to log data on a university student rocketry club on their L2 Certification Flight.
+Software used to log data on a university student rocketry club.
 
 No charges were fired off this, it was simply to record data.
 
